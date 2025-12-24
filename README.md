@@ -47,7 +47,7 @@ The chatbot does **not hallucinate answers** and responds only based on the offi
 ```
 CBSE-Mental-Health-Chatbot/
 │
-├── CBSE_MH_Manual.pdf        # CBSE Mental Health Manual (data source)
+├── CBSE_MH_Manual.pdf       # CBSE Mental Health Manual (data source)
 ├── chatbot.ipynb            # Main notebook with complete code
 ├── README.md                # Project documentation
 └── requirements.txt         # (Optional) Required dependencies
